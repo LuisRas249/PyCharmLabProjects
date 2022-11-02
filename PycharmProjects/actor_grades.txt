@@ -1,0 +1,6 @@
+# Actor Grades Example
+B001, James Bond, 45
+B002, Daniel Craig, 30
+B007, Dr Who, 70.9
+B008, Johnny English, 60.2
+B009, Ethan Hunt, 20
